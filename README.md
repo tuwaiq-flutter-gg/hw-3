@@ -38,7 +38,7 @@ in python
  <br/>
  <ul>
  <li>خطاء بناء الجمله</li>
-  وهي اخطاء كتابة لكود بشكل خاطاء وهي اسهل انواع الاخطاء. 
+  وهي اخطاء كتابة كود بشكل خاطاء وهي اسهل انواع الاخطاء. 
   <br/>
 مثال:
    prinnnt("kkkk")
@@ -57,8 +57,13 @@ in python
   print("2+2")
 </ul>  
 
-* Data Types 
-* Variable  & Const 
+<h3> Data Types <h3/>
+ انواع البيانات او تصنيف البيانات هو تحديد لنوع القيمه التي يمتلكه المتغير ونوع العمليه التي سيتم تنفيذها كانت حسابيه او كتابيه او منطقيه 
+ <br/>
+ مثال:
+ Array & list 
+ 
+<h3> Variable  & Const <h3/>
 * String interpolation 
 * Operators 
 * Null Safety
