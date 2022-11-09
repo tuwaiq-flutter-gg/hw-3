@@ -6,8 +6,10 @@ Explain each subject below, and provide at least one example.
 
 **the main in flutter**
 <br/>
-وهي الوظيفه الاساسيه في البرنامج تنفذ الاكواد التي بدخالها ويجب أن يحتوي برنامجك على وظيفه اساسيه واحده فقط 
+وهي الوظيفه الاساسيه في البرنامج تنفذ الاكواد التي بدخالها ويجب أن يحتوي برنامجك على وظيفه اساسيه واحده فقط
+<br/>
 مثال:
+<br/>
  void main() {
  // runApp is a Flutter function that runs your Flutter app
   runApp(MyApp());  
