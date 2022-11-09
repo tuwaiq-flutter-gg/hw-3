@@ -10,12 +10,12 @@ Explain each subject below, and provide at least one example.
 <br/>
 مثال:
 <br/>
-** void main() {
+ void main() {
  <br/>
- // runApp is a Flutter function that runs your Flutter app
+ //runApp is a Flutter function that runs your Flutter app
  <br/>
   runApp(MyApp());  
-}**
+}
 
 ### the print 
 <br/>
