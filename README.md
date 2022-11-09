@@ -49,7 +49,7 @@ in python
   <br/>
   مثال:
   <br/>
-  <img src="![image](https://user-images.githubusercontent.com/115969743/200867214-774c78f1-f193-45ba-b7e3-cb8fcc8eabf3.png)" alt="Flowers in Chania" width="460" height="345">
+  <img src="https://user-images.githubusercontent.com/115969743/200867214-774c78f1-f193-45ba-b7e3-cb8fcc8eabf3.png" width="460" height="345">
   <li></li>
 </ul>  
 
