@@ -29,7 +29,9 @@ in python
 
     print("khaled")
 <br/>
-* Syntax
+
+<h3>Syntax<h3/>
+
 * Data Types 
 * Variable  & Const 
 * String interpolation 
