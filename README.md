@@ -26,14 +26,14 @@ Explain each subject below, and provide at least one example.
 
 in python 
 <br/>
-{
+
     print("khaled")
-}
+
 
 <br/>
-in html{
-    //<p>Hi,I am ....<p>
-}
+in html
+    **<p>Hi,I am ....<p>**
+
  <br/>
 * Syntax
 * Data Types 
