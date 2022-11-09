@@ -4,7 +4,7 @@ Explain each subject below, and provide at least one example.
 
 # Main and Print
 
-**the main in flutter**
+**-the main in flutter**
 <br/>
 وهي الوظيفه الاساسيه في البرنامج تنفذ الاكواد التي بدخالها ويجب أن يحتوي برنامجك على وظيفه اساسيه واحده فقط
 <br/>
@@ -17,7 +17,7 @@ Explain each subject below, and provide at least one example.
   runApp(MyApp());  
 }
 
-### the print 
+### -the print 
 <br/>
 الطباعه في البرمجه يستخدم امر الطباعه يستخدم في جميع لغات البرمجه ب اشكال مختلفه لطباعة النصوص او محتويات بعض المتغيرات او الوظائف او القوائم والمصفوفات
 <br/>
@@ -28,14 +28,7 @@ in python
 <br/>
 
     print("khaled")
-
-
 <br/>
-in html
-<br/>
-    **<p/>Hi,I am ....<p/>**
-
- <br/>
 * Syntax
 * Data Types 
 * Variable  & Const 
