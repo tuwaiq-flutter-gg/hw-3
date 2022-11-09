@@ -31,6 +31,19 @@ in python
 <br/>
 
 <h3>Syntax<h3/>
+<br/>
+ ما هو مفهوم الاخطاء البرمجيه ؟ 
+ <br/>
+ هي الاخطاء التي تظهر في البرنامج وتنقسم الى عدة اقسام.
+ <br/>
+ <ul>
+ <li>خطاء بناء الجمله</li>
+  وهي اخطاء كتابة لكود بشكل خاطاء 
+  ![image](https://user-images.githubusercontent.com/115969743/200864433-d609eefb-ec33-4e5d-982b-d6dfd7cfdaff.png)
+
+  <li></li>
+  <li></li>
+</ul>  
 
 * Data Types 
 * Variable  & Const 
