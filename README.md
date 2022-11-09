@@ -39,8 +39,11 @@ in python
  <ul>
  <li>خطاء بناء الجمله</li>
   وهي اخطاء كتابة لكود بشكل خاطاء 
-  ![image](https://user-images.githubusercontent.com/115969743/200864433-d609eefb-ec33-4e5d-982b-d6dfd7cfdaff.png)
-
+  <br/>
+مثال:
+   prinnnt("kkkk")
+  <br/>
+  
   <li></li>
   <li></li>
 </ul>  
