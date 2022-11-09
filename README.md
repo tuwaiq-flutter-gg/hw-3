@@ -80,7 +80,27 @@ in python
  const PI = 3.14;
  
  
-* String interpolation 
- 
-* Operators 
-* Null Safety
+<h3> String interpolation<h3/>
+ <br/>
+ اضافات المتغيرات الى النص المكتوب ويستخدم عندما تكون لديك قيمه مجهوله تريد اضافتها لنص في حال تم ادخالها .
+ <br/>
+ مثال:
+ <br/>
+ apples  =  4 //لنفترض ان القيمه هذي يتم ادخالها عن طريق اليوزر
+<br/>
+ print ( "I have $ {apples} apples." )
+
+<h3> Operators <h3/>
+ <br/>
+ العمليات الحسابيه في البرمجه يتم استخدامها مع المتغيرات والارقام ولها امثله عديده منها:
+  <br/>
+ الاس:**:
+ <br/>
+ x = 2
+  <br/>
+y = 5
+  <br/>
+print(x ** y)
+
+
+<h3> Null Safety<h3/>
