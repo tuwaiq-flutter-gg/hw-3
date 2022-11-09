@@ -104,3 +104,10 @@ print(x ** y)
 
 
 <h3> Null Safety<h3/>
+  <br/>
+ الفراغ الامن في بعض اللغات وهو السماح للمستخدم ادخال قيمه فارغه وذالك بسبب بعض المشاكل التي قد تحصل عند ادخال البانات
+  <br/>
+ مثال:
+  <br/>
+ 
+ <img src="https://user-images.githubusercontent.com/115969743/200890734-d68d2ae2-bb52-46ac-adf3-23bc59c722bb.png" width="460" height="345">
