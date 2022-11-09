@@ -6,10 +6,11 @@ Explain each subject below, and provide at least one example.
   
 The main function is a function at which any code starts.
  An example of this is a code from Dart 
-void main() {
+ 
+  void main() {
   runApp(
   )
-}
+   }
 
 As for printing, it is a software command through which anything can be printed without any error,
  and we need this sometimes to print some variables, for example print("Hi")
