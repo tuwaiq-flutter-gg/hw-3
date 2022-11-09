@@ -3,7 +3,8 @@
 Explain each subject below, and provide at least one example.
 
 # Main and Print
-###the main in flutter
+
+*the main in flutter
 *وهي الوظيفه الاساسيه في البرنامج تنفذ الاكواد التي بدخالها ويجب أن يحتوي برنامجك على وظيفه اساسيه واحده فقط 
 مثال:
 * void main() {
