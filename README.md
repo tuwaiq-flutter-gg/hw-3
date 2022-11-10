@@ -97,15 +97,6 @@ and here below we have the different types of the Operator.\
 |is       | `void main(){int a = 5; int b = 10; print(a is int);}`|true|
 |is!      | `void main(){int a = 5; int b = 10; print(a is! int);}`|false|
 
--Bitwise Operators
-|Operator | Example| Output| Note|
-|---------|--------|-------|-----|
-| AND &| `void main(){ int a = 8; int b = 14; print("A & B = ${a&b}");}`|A & B = 8| - |
-| OR | `void main(){ int a = 8; int b = 14; print("A / B = ${a/b}");}`|A / B = 14 |The sign of OR opreator mess up the table i replace it by this sign /|
-|XOR ^ | `void main(){ int a = 8; int b = 14; print("A ^ B = ${a^b}");}`|A ^ B = 6| -|
-| NOT ~a| `void main(){ int a = 8; print("~A = ${~a}");}`| ~A = -9 | -|
-|Left shift <<| `void main(){ int a = 8; int b = 14; print("A << B = ${a<<b}");}`| A << B = 131072| - |
-|Right shift >>| `void main(){ int a = 8; int b = 14; print("A >> B = ${a>>b}");}`|A >> B = | - |
 
 -Assignment Operators
 |Operator | Example|Output|
